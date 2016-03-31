@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variel.Web.Identity", "Variel.Web.Identity\Variel.Web.Identity.csproj", "{69EDB02F-E3A1-4416-9C62-86528F888B86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWebApp", "TestWebApp\TestWebApp.csproj", "{32045CDA-3CBF-4F07-A3CE-39D109D18F0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69EDB02F-E3A1-4416-9C62-86528F888B86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69EDB02F-E3A1-4416-9C62-86528F888B86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69EDB02F-E3A1-4416-9C62-86528F888B86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69EDB02F-E3A1-4416-9C62-86528F888B86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32045CDA-3CBF-4F07-A3CE-39D109D18F0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32045CDA-3CBF-4F07-A3CE-39D109D18F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32045CDA-3CBF-4F07-A3CE-39D109D18F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32045CDA-3CBF-4F07-A3CE-39D109D18F0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
